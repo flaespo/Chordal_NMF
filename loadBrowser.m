@@ -1,8 +1,8 @@
 function [Mo,nrow,ncol,m,n, M, n_col_M, X, nband] = loadBrowser
-%load('X.mat');
+%load('data/X.mat');
 %new data
-load('X1.mat');
-X = X1; 
+load('data/X_nocloud.mat');
+
 
 [nrow, ncol, nband] = size(X);
 
