@@ -1,7 +1,6 @@
 # Chordal_NMF
 Numerical Algorithm and Dataset for solving Chordal NMF related to the paper:
 
-"Chordal-NMF with Riemannian Multiplicative Update"
+Esposito, F., Ang, A. A new Riemannian Multiplicative Updates for Chordal Nonnegative Matrix Factorization. J Glob Optim (2025). https://doi.org/10.1007/s10898-025-01548-8
 
-authored by F. Esposito, A. Ang
-https://arxiv.org/abs/2405.12823
+
